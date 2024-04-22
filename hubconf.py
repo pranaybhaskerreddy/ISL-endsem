@@ -194,8 +194,8 @@ import torch.optim as optim
 #   return mynn
     
 
-def hello():
-  print("hello")
+def ISL():
+  print("ISLLAB")
 
 
   
