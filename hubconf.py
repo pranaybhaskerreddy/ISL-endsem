@@ -195,7 +195,7 @@ import torch.optim as optim
     
 
 def ISL():
-  print("ISLLAB")
+  print("ISL_LAB")
 
 
   
